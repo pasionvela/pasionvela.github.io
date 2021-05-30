@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vela cubana entre la pasión y lo competitivo</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Posts on Vela cubana entre la pasión y lo competitivo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 29 May 2021 20:16:09 -0400</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Videos</title>
+      <link>https://example.com/post/atest/</link>
+      <pubDate>Sat, 29 May 2021 20:16:09 -0400</pubDate>
+      
+      <guid>https://example.com/post/atest/</guid>
+      <description>                 </description>
+    </item>
+    
+  </channel>
+</rss>

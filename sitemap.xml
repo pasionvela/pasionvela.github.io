@@ -2,87 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pasionvela.github.io/videos/</loc>
-    <lastmod>2021-05-30T16:00:17-04:00</lastmod>
+    <loc>https://examplesite.com/blog/simple-blog-post-8/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url><url>
-    <loc>https://pasionvela.github.io/gallery/</loc>
-    <lastmod>2021-05-30T15:33:38-04:00</lastmod>
+    <loc>https://examplesite.com/blog/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url><url>
-    <loc>https://pasionvela.github.io/blog/vamos-a-ver/</loc>
-    <lastmod>2021-05-30T15:03:54-04:00</lastmod>
+    <loc>https://examplesite.com/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
   </url><url>
-    <loc>https://pasionvela.github.io/</loc>
-    <lastmod>2021-05-30T15:03:54-04:00</lastmod>
+    <loc>https://examplesite.com/blog/simple-blog-post-7/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
   </url><url>
-    <loc>https://pasionvela.github.io/about/</loc>
-    <lastmod>2021-05-30T14:58:16-04:00</lastmod>
+    <loc>https://examplesite.com/author/</loc>
   </url><url>
-    <loc>https://pasionvela.github.io/blog/</loc>
-    <lastmod>2018-07-15T12:32:37+06:00</lastmod>
+    <loc>https://examplesite.com/categories/</loc>
   </url><url>
-    <loc>https://pasionvela.github.io/blog/a-new-year-a-new-posibility/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+    <loc>https://examplesite.com/author/john-doe/</loc>
   </url><url>
-    <loc>https://pasionvela.github.io/tags/inspiration/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+    <loc>https://examplesite.com/author/mark-dinn/</loc>
   </url><url>
-    <loc>https://pasionvela.github.io/tags/motivation/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/tags/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/blog/building-an-online-audience/</loc>
-    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/tags/internet/</loc>
-    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/tags/tech/</loc>
-    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/tags/business/</loc>
-    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/tags/people/</loc>
-    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/blog/space-shouldnt-be-the-final-frontier/</loc>
-    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/contact/</loc>
-    <lastmod>2018-07-14T17:09:20+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/service/</loc>
-    <lastmod>2018-07-14T12:58:14+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/portfolio/caramel-bottle/</loc>
-    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/portfolio/</loc>
-    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/portfolio/shopping-bag-concept/</loc>
-    <lastmod>2018-07-12T16:58:55+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/portfolio/makeup-element/</loc>
-    <lastmod>2018-07-12T16:57:54+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/portfolio/table-design/</loc>
-    <lastmod>2018-07-12T16:56:54+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/portfolio/bottle-mockup/</loc>
-    <lastmod>2018-07-12T16:54:54+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/portfolio/dew-drop/</loc>
-    <lastmod>2018-07-12T16:53:54+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/blog/installation/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/tags/install/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url><url>
-    <loc>https://pasionvela.github.io/categories/</loc>
+    <loc>https://examplesite.com/tags/</loc>
   </url>
 </urlset>
